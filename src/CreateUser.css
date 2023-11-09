@@ -1,0 +1,40 @@
+.create-user-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f5f5f5; /* Este color es un ejemplo, usa el que corresponda a tu diseño */
+  }
+  
+  .create-user-form {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .create-user-form h2 {
+    color: #333; /* Ajusta el color como sea necesario */
+    margin-bottom: 20px;
+  }
+  
+  .create-user-form input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .create-user-form button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #888; /* Ajusta el color del botón */
+    color: white;
+    cursor: pointer;
+  }
+  
+  /* Agrega estilos para el botón Regresar y otros detalles que requieras */
+  
